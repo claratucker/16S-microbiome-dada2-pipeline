@@ -28,12 +28,15 @@ Increasing atmospheric CO2 levels intensify ocean warming and acidification, whi
 
 ### Alpha Diversity
 ![Alpha Diversity](Results/alpha-diversity.png)
+**Figure 1**: _Alpha diversity metrics (Chao1, Observed OTUs, PD Whole Tree, Shannon) across temperature and age treatments. Fish at 10 days post-hatching (10 dph) consistently show higher species richness and diversity than 1 dph fish across all metrics and temperature conditions, suggesting developmental stage is the dominant driver of microbiome diversity._
 
 ### Beta Diversity – Age Effect
 ![Age PERMANOVA](Results/Age-permanova.png)
+**Figure 2**: _Principal Coordinates Analysis (PCoA) of unweighted UniFrac distances grouped by developmental age. Age significantly structures microbiome composition across all samples (PERMANOVA p = 0.001), with 1 dph and 10 dph fish forming distinct communities. Homogeneity of dispersion confirmed (PERMDISP p > 0.05)._
 
 ### Developmental Timepoint Distances
 ![Developmental Timepoint Distances](Results/Developmental-Timepoint-Distances.png)
+**Figure 3**: _Pairwise unweighted UniFrac distances within and between developmental timepoints. Between-age distances (1 dph vs. 10 dph) are significantly greater than within-age distances (p < 0.001), confirming that microbiome composition shifts substantially over early development regardless of treatment._
 
 ## Broader Goals
 - Predict holobiont fitness under future ocean conditions.
