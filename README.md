@@ -38,6 +38,11 @@ Increasing atmospheric CO2 levels intensify ocean warming and acidification, whi
 ![Developmental Timepoint Distances](Results/Developmental-Timepoint-Distances.png)
 **Figure 3**: _Pairwise unweighted UniFrac distances within and between developmental timepoints. Between-age distances (1 dph vs. 10 dph) are significantly greater than within-age distances (p < 0.001), confirming that microbiome composition shifts substantially over early development regardless of treatment._
 
+## Presentations & Recognition
+This project was presented at the **URECA (Undergraduate Research & Creative Activities) 
+Symposium at Stony Brook University (2018)**. The abstract and poster are available in 
+the [`Results/`](Results/) folder.
+
 ## Broader Goals
 - Predict holobiont fitness under future ocean conditions.
 - Provide insight into potential acclimation or adaptation of fish microbiomes to environmental change.
